@@ -15,5 +15,6 @@
 
 ## References
 
-1. https://towardsaws.com/build-push-docker-image-to-aws-ecr-using-github-actions-8396888a8f9e
-2. https://hackernoon.com/building-a-cicd-pipeline-with-aws-k8s-docker-ansible-git-github-apache-maven-and-jenkins
+1. https://dlmade.medium.com/ci-cd-with-github-action-and-aws-eks-5fd9714010cd
+2. https://towardsaws.com/build-push-docker-image-to-aws-ecr-using-github-actions-8396888a8f9e
+3. https://hackernoon.com/building-a-cicd-pipeline-with-aws-k8s-docker-ansible-git-github-apache-maven-and-jenkins
